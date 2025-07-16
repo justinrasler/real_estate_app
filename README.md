@@ -87,6 +87,11 @@ Styling and theming techniques
 
 🖼️ Screenshots
 
+<img width="1775" height="866" alt="Screenshot 2025-07-16 at 12 06 16 PM" src="https://github.com/user-attachments/assets/af278836-34c5-41c2-9e71-4f8f9cc738f9" />
+<img width="1775" height="950" alt="Screenshot 2025-07-16 at 12 06 31 PM" src="https://github.com/user-attachments/assets/33c2e0c5-81a4-4d11-b688-fc65c4cfbee2" />
+<img width="1853" height="947" alt="Screenshot 2025-07-16 at 12 07 09 PM" src="https://github.com/user-attachments/assets/4fe8b1be-8167-43c1-a5d5-424adecc94b6" />
+<img width="1775" height="950" alt="Screenshot 2025-07-16 at 12 06 58 PM" src="https://github.com/user-attachments/assets/54ce9325-bef2-4835-9a33-fdac7c878fbc" />
+
 
 Details" width="80%" />
 📈 Project Status

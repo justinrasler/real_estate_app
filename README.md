@@ -86,9 +86,9 @@ Modern notifications and toast alerts with React Toastify
 Styling and theming techniques
 
 🖼️ Screenshots
-Add actual screenshots in a /screenshots folder or below once available.
 
-<!-- Example --> <img src="screenshots/homepage.png" alt="Homepage" width="80%" /> <img src="screenshots/property-details.png" alt="Property Details" width="80%" />
+
+Details" width="80%" />
 📈 Project Status
 ✅ Actively maintained
 📌 Frontend complete
